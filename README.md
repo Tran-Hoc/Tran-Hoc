@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tran-Hoc&theme=tokyonight&show_icons=true&count_private=true&custom_title=huynhtruong02&number_format=short" alt='' />
+<img src="https://github-readme-stats.vercel.app/api?username=Tran-Hoc&theme=tokyonight&show_icons=true&count_private=true&custom_title=Hoc&number_format=short" alt='' />
